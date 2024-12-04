@@ -38,3 +38,6 @@ The script will:
    - Supply: 100 million
    - Decimals: 8
 3. Print the transaction hashes.
+
+Preview:
+![preview](preview.mp4)
