@@ -35,3 +35,5 @@ The script will:
 3. Open Chrome browser to use web-wallet
 4. Request tokens from faucet for each account
 5. You'll need to solve the CAPTCHA manually for each request
+
+https://raw.githubusercontent.com/emr/mvx-winter-challenge/refs/heads/main/1203-create-and-fund-accounts/preview.mp4
