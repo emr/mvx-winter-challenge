@@ -26,8 +26,8 @@ The script should be executed in a single command. Provide clear instruction on 
   - Upload the PEM file to the file input in the page.
   - Click on "Access Wallet" button.
   - Navigate to https://testnet-wallet.multiversx.com/faucet
-  - Wait for the "I'm not a robot" checkbox to be visible and click on it.
-  - Click on "Request Tokens" button.
+  - Wait for the "I'm not a robot" checkbox to be visible.
+  - Wait for the "Request Tokens" button to be enabled and click on it when it is.
   - Close the browser tab.
   - Print success message.
-  - Repeat the process for the other wallets.
+  - Repeat the process for the rest of the wallets.
