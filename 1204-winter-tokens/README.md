@@ -39,5 +39,4 @@ The script will:
    - Decimals: 8
 3. Print the transaction hashes.
 
-Preview:
-![preview](preview.mp4)
+[Preview](preview.mp4)
